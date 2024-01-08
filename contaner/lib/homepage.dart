@@ -48,7 +48,7 @@ class _HomePageState extends State<HomePage> {
           Container(
 
             child: Padding(
-              padding: const EdgeInsets.only(right: 30,left: 30),
+              padding: const EdgeInsets.only(right: 31,left: 30),
               child: TextField(
                 decoration: InputDecoration(hintText: "enter email pasword",
                     border: OutlineInputBorder(borderRadius: BorderRadius.circular(20))),
